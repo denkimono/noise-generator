@@ -1,0 +1,46 @@
+1 x PP3 battery holder (flying leads)
+https://www.rapidonline.com/trupower-bh9va-pp3-battery-holder-with-flying-leads-18-0163
+
+1 x dual 7 segment display 
+https://www.rapidonline.com/truopto-osl20561-ira-14-2mm-dual-red-display-anode-100mcd-57-0151
+
+2 x 1N4001 diodes 
+https://www.rapidonline.com/diotec-1n4001-rectifier-diode-1a-50v-50-0381
+
+1 x ATTINY44 
+https://www.rapidonline.com/atmel-attiny45-20pu-8bit-microcontroller-4k-flash-dil8-73-4350
+
+1 x row of six PCB pins (for the programming interface)
+https://www.rapidonline.com/truconnect-single-row-header-36-way-pcb-plug-22-0545
+
+4 x NPN transistors (BC549C)
+https://www.rapidonline.com/diotec-bc549c-npn-transistor-to92-0-2a-30v-50-0298
+
+1 x 5.6V zener diode 
+https://www.rapidonline.com/trusemi-bzx55c5v6-zener-diode-0-5w-do35-5-6v-47-3854
+
+3 x screws
+https://www.rapidonline.com/affix-pozi-pan-head-self-tapping-screws-no-4-6-5mm-pack-of-100-33-3150
+
+1 x button
+https://www.rapidonline.com/omron-b3f-3155-6x6mm-6-15mm-260gf-sq-tact-switch-r-a-78-0140
+
+1 x 14 pin DIL socket
+https://www.rapidonline.com/truconnect-ds1009-14-at1nx-14pin-dil-socket-7-62mm-no-central-support-tube-of-34-22-0108
+
+3 x 100nF capacitors 
+http://uk.farnell.com/multicomp/mcrr50104z5um0050/cap-cer-z5u-100nf-50v-rad/dp/1216445
+
+2 x 10uF capacitors 
+http://uk.farnell.com/multicomp/mcmr63v106m6-3x7/cap-alu-elec-10uf-63v-rad/dp/1870986
+
+1 x speaker
+http://uk.farnell.com/pro-signal/abt-436-rc/piezo-transducer-pcb/dp/1300026
+
+
+Resistors all 0.25W 5% carbon film
+3 x 10k resistor 
+7 x 82R resistor 
+2 x 100k resistor 
+1 x 1k resistor 
+
